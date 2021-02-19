@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Screenshot](rock.png)
+![Screenshot](rock.jpg)
 
 
 <!--
