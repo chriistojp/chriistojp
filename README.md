@@ -7,7 +7,11 @@ at Gamers React.
 I am a very easy individual to work with, and work for the success of my clients. I enjoy proposing ideas, and optimizing code to make the front end
 experience the best that it can possible be. I really enjoy what I do, and I provide the highest quality of work.
 
-<b> test </b>
+<b><u> Import Contact Information </u></b>
+- <b>Discord:</b> Christo#7593
+- <b>Portfolio:</b> http://www.devchristo.com/
+- <b>MCM:</b> https://www.mc-market.org/members/129709/
+- <b>GitHub:</b> http://www.github.com/chriistojp
 
 <!--
 **chriistojp/chriistojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
