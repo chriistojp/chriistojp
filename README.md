@@ -1,7 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub Development Page 👋
 
-![Screenshot](rock.jpg)
 
+Hi, I'm Christo, a Java developer. I am an active investor, student, and programmer. I have been working with Java as well as 
+the Spigot API for multiple years now. I have many notable accomplishments, such as two prison cores, as well as being the lead developer over
+at Gamers React. 
+
+I am a very easy individual to work with, and work for the success of my clients. I enjoy proposing ideas, and optimizing code to make the front end
+experience the best that it can possible be. I really enjoy what I do, and I provide the highest quality of work.
 
 <!--
 **chriistojp/chriistojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
