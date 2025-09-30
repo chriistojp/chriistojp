@@ -10,7 +10,6 @@ experience the best that it can possible be. I really enjoy what I do, and I pro
 <b><u> Import Contact Information </u></b>
 - <b>Discord:</b> Christo#7593
 - <b>Portfolio:</b> http://www.devchristo.com/
-- <b>MCM:</b> https://www.mc-market.org/members/129709/
 - <b>GitHub:</b> http://www.github.com/chriistojp
 
 <!--
